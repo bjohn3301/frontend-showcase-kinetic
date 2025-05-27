@@ -24,32 +24,6 @@ Este projeto é um **showcase técnico de desenvolvimento front-end**, explorand
 
 ---
 
-## 🎥 Demonstração Visual (GIFs)
-
-
-**Preloader e Fundo Plexus:**
-![Preloader e Fundo Plexus](assets/demo-plexus-preloader.gif) 
-
-**Cursor Inteligente:**
-![Cursor Inteligente](assets/demo-cursor.gif)
-
-**Hero Section e Título Interativo:**
-![Hero Section](assets/demo-hero.gif)
-
-**Showcase - Forma Dinâmica (Metaballs):**
-![Metaballs](assets/demo-metaballs.gif)
-
-**Showcase - UI Perspectiva (Cartão 3D):**
-![Cartão 3D](assets/demo-card3d.gif)
-
-**Showcase - Efeitos de Texto (Glitch):**
-![Glitch Text](assets/demo-glitchtext.gif)
-
-**Showcase - Grade Emaranhada:**
-![Grade Emaranhada](assets.gif)
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 *   **HTML5:** Estrutura semântica do conteúdo.
