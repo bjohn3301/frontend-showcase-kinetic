@@ -1,5 +1,10 @@
 # ✨ Interface Cinética Quântica ✨
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge)
+
 ## 🚀 Sobre o Projeto
 
 Este projeto é um **showcase técnico de desenvolvimento front-end**, explorando animações CSS avançadas, interatividade JavaScript e a API Canvas para criar uma experiência visual dinâmica e imersiva. O objetivo principal é demonstrar habilidades em criar interfaces fluidas, responsivas e esteticamente impactantes, com uma temática que remete à física quântica e interfaces futuristas.
