@@ -66,7 +66,7 @@ Este projeto é um **showcase técnico de desenvolvimento front-end**, animaçõ
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Devs
 
 *   **Brenner Cordeiro**
     *   GitHub: [@bjohn](https://github.com/bjohn3301)
