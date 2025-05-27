@@ -75,11 +75,11 @@ Este projeto é um **showcase técnico de desenvolvimento front-end**, explorand
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+    git clone https://github.com/bjohn3301/frontend-showcase-kinetic.git
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd NOME_DO_REPOSITORIO
+    cd frontend-showcase-kinetic
     ```
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
 
