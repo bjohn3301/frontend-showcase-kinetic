@@ -94,7 +94,7 @@ Este projeto é um **showcase técnico de desenvolvimento front-end**, explorand
 
 
 *   **Abraão Eber**
-    *   GitHub: [abraao488]([https://github.com/bjohn3301](https://github.com/abraao488))
+    *   GitHub: [@abraao488]([https://github.com/bjohn3301](https://github.com/abraao488))
 
 ---
 
