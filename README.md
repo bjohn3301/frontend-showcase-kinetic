@@ -7,25 +7,25 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto é um **showcase técnico de desenvolvimento front-end**, explorando animações CSS avançadas, interatividade JavaScript e a API Canvas para criar uma experiência visual dinâmica e imersiva. O objetivo principal é demonstrar habilidades em criar interfaces fluidas, responsivas e esteticamente impactantes, com uma temática que remete à física quântica e interfaces futuristas.
+Este projeto é um **showcase técnico de desenvolvimento front-end**, animações CSS avançadas, interatividade JavaScript e a API Canvas. O objetivo principal é demonstrar interfaces fluidas e responsivas, com uma temática que remete à física quântica e futurismo.
 
 ---
 
 ## 🎯 Funcionalidades em Destaque
 
-*   🌌 **Preloader Temático:** Uma introdução animada "Estabelecendo Link Quântico" para imersão imediata.
+*   🌌 **Preloader Temático:** Uma introdução animada "Estabelecendo Link Quântico".
 *   🌐 **Fundo Plexus Global:** Uma rede de partículas interconectadas que reage sutilmente ao movimento do mouse em todo o site.
-*   🖱️ **Cursor Inteligente com Rastro:** Um cursor personalizado que não apenas segue o mouse, mas deixa um rastro e muda contextualmente ao interagir com elementos.
+*   🖱️ **Cursor Inteligente com Rastro:** Um cursor personalizado.
 *   🌟 **Hero Section Interativa:**
     *   Título principal com animação de entrada por caractere e efeitos de hover individuais.
-    *   Subtítulo com efeito de digitação estilizado.
+    *   Subtítulo com efeito de digitação.
 *   🔬 **Módulos de Demonstração ("Showcase Items"):**
     *   **Forma Dinâmica (Metaballs):** Bolhas líquidas que reagem à velocidade do mouse e explodem em partículas ao clique.
-    *   **UI Perspectiva (Cartão 3D):** Um cartão que gira em 3D com o mouse, apresentando um padrão animado no verso, brilho interno pulsante e efeito de scanline.
-    *   **Efeitos de Texto (Glitch Text):** Texto com efeito "glitch" que se intensifica no hover e se estabiliza temporariamente ao clique.
+    *   **UI Perspectiva (Cartão 3D):** Um cartão que gira em 3D com o mouse.
+    *   **Efeitos de Texto (Glitch Text):** Texto com efeito glitch que se intensifica no hover e se estabiliza temporariamente ao clique.
     *   **Grade Emaranhada:** Uma grade de nós que se ativam e propagam "sinais" para vizinhos, demonstrando um efeito de emaranhamento visual.
-*   📱 **Responsividade Completa:** Design adaptável para uma ótima experiência em desktops, tablets e smartphones.
-*   📜 **Scroll Suave e Animações de Entrada:** Elementos que surgem na tela de forma elegante durante a rolagem.
+*   📱 **Responsividade Completa:** Design adaptável para uma boa experiência em desktops, tablets e smartphones.
+*   📜 **Scroll Suave e Animações de Entrada:** Elementos que surgem na tela.
 
 ---
 
